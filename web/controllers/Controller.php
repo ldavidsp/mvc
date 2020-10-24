@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Create Class Controll.
+ * Create Class Controller.
  */
 class Controller {
 
